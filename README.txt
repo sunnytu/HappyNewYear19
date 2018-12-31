@@ -4,12 +4,10 @@ A Pen created at CodePen.io. You can find this one at https://codepen.io/Sector2
 
 Uses svg `clipPath` in combination with a stroke & `stroke-dashoffset`.
 
-
-
 ## Usage
 
 * npm install
 * node index.js
 * visit http://localhost:3000
 
-that's all.
+> that's all. 新年快乐！！
